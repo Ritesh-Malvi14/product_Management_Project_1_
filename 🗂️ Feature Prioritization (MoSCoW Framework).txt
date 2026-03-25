@@ -1,0 +1,11 @@
+## 🗂️ Feature Prioritization — MoSCoW Framework
+
+| Priority | Feature | Rationale |
+|---|---|---|
+| **Must Have** | Subject-specific chat rooms | Core pain point for 87% of users |
+| **Must Have** | Shared notes repository | Directly reduces exam prep friction |
+| **Must Have** | Exam & deadline calendar | Missed dates = highest student anxiety trigger |
+| **Should Have** | Study group formation | Enables peer collaboration at scale |
+| **Should Have** | Note rating & upvote system | Ensures quality content surfaces first |
+| **Could Have** | AI-powered study reminders | Increases retention and engagement |
+| **Won't Have (v1)** | Video calling / live sessions | Scope risk; deferred to v2 roadmap |

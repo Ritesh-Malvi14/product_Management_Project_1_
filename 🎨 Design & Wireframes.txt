@@ -1,0 +1,14 @@
+## 🎨 Design & Wireframes
+
+Designed **mobile-first Figma wireframes** covering the complete user journey across 3 core flows:
+
+1. **Onboarding Flow** — College → Branch → Semester → Subject selection
+2. **Chat Room Flow** — Browse subjects → Enter room → Post / Pin messages
+3. **Notes Flow** — Upload → Tag → Search → Bookmark → Rate
+
+📎 **Figma Prototype Link:** [View Wireframes](#) *(Add your Figma link here)*
+
+### Design Principles Applied
+- **Mobile-first:** Designed for 5.5" screens with thumb-friendly navigation
+- **Minimal UI:** Reduced cognitive load for students in high-stress exam periods
+- **Familiar patterns:** Chat-app-like UI reduces learning curve

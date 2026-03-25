@@ -1,0 +1,15 @@
+## 📋 Product Backlog (Sample User Stories)
+
+### Epic 1: Subject Chat Rooms
+- [ ] As a student, I want to join subject-specific rooms so I can ask doubts without noise from other topics
+- [ ] As a student, I want to pin important messages in a room so key information isn't lost
+- [ ] As a moderator, I want to manage room members so the quality of discussion is maintained
+
+### Epic 2: Shared Notes
+- [ ] As a student, I want to upload PDF notes with subject tags so others can find them easily
+- [ ] As a student, I want to upvote helpful notes so the best resources rise to the top
+- [ ] As a student, I want to bookmark notes so I can access them quickly before exams
+
+### Epic 3: Exam Calendar
+- [ ] As a student, I want to add exam dates to a shared calendar so my entire batch stays aligned
+- [ ] As a student, I want reminder notifications 3 days before an exam so I never miss a deadline

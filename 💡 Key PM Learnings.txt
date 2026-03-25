@@ -1,0 +1,6 @@
+## 💡 Key PM Learnings
+
+- **Say No Strategically:** Deferring video calls to v2 kept the MVP focused and shippable within 3 months
+- **Research before building:** 30+ interviews prevented building features students didn't actually need
+- **Align roadmap to release cycles:** Breaking work into 3 phases reduced scope creep and kept the team focused
+- **MoSCoW works:** Prioritization framework helped stakeholders align quickly without endless debates

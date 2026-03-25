@@ -1,0 +1,10 @@
+## 📊 Success Metrics & KPIs
+
+| Metric | Goal (End of Month 3) | Why It Matters |
+|---|---|---|
+| Daily Active Users (DAU) | 500+ students | Validates core engagement loop |
+| Notes Uploaded per Week | 100+ | Measures content network effect |
+| Exam Calendar Entries | 80% of active users | Validates calendar feature adoption |
+| Avg. Session Duration | >8 minutes | Indicates deep engagement |
+| User Retention (D7) | >40% | Confirms product-market fit signal |
+| NPS Score | >35 | Tracks overall user satisfaction |

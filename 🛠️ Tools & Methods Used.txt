@@ -1,0 +1,10 @@
+## 🛠️ Tools & PM Methods Used
+
+| Category | Tools / Methods |
+|---|---|
+| Research | User Interviews, Affinity Mapping |
+| Prioritization | MoSCoW Framework |
+| Design | Figma (Wireframes + Prototype) |
+| Planning | Product Roadmap, Sprint Planning |
+| Documentation | PRD (Product Requirements Document) |
+| Collaboration | Notion, Miro |

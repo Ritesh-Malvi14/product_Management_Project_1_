@@ -1,0 +1,14 @@
+## 🧩 Problem Statement
+
+University students struggle with fragmented study resources — notes are scattered 
+across WhatsApp groups, exam dates are missed, and there's no structured space for 
+subject-specific peer collaboration.
+
+After conducting **user interviews with 30+ students**, the following core pain points emerged:
+
+| Pain Point | Frequency Mentioned |
+|---|---|
+| No centralized subject-wise discussion space | 87% |
+| Missed exam dates / no shared academic calendar | 73% |
+| Difficulty accessing peer notes before exams | 68% |
+| Feeling academically isolated in large batches | 61% |

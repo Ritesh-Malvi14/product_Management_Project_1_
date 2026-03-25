@@ -1,0 +1,23 @@
+## 👥 User Research & Discovery
+
+### Research Methodology
+- **Method:** 1:1 User Interviews (qualitative)
+- **Sample Size:** 30+ undergraduate students across departments
+- **Duration:** 2 weeks of discovery sprints
+
+### Key User Personas
+
+**Persona 1 — "The Overwhelmed Fresher"**
+- Age: 18–20 | Semester: 1st–2nd
+- Goal: Find notes and understand what topics to focus on before exams
+- Frustration: Doesn't know the right people to ask; misses important updates
+
+**Persona 2 — "The Collaborative Senior"**
+- Age: 21–23 | Semester: 5th–6th
+- Goal: Organize group study, share resources, track deadlines
+- Frustration: Coordination happens across 4–5 apps with no single source of truth
+
+### Research Insights
+> *"I have notes from last year but no way to share them properly with juniors."*  
+> *"Our WhatsApp group is so noisy — I miss actual important messages."*  
+> *"I wish there was one app just for academics, not social stuff."*

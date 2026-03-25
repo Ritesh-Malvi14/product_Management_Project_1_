@@ -1,0 +1,9 @@
+## 🗺️ Product Roadmap (3-Month Release Plan)
+
+| Phase | Timeline | Focus | Key Deliverables |
+|---|---|---|---|
+| **Phase 1 — Foundation** | Month 1 | Core infrastructure & auth | User login, subject onboarding, chat rooms |
+| **Phase 2 — Collaboration** | Month 2 | Content sharing & calendar | Notes upload, exam calendar, search |
+| **Phase 3 — Engagement** | Month 3 | Retention & quality | Note ratings, notifications, study groups |
+
+> Roadmap aligned to **agile release cycles** with bi-weekly sprint reviews and backlog grooming sessions.

@@ -1,0 +1,4 @@
+# 📚 Campus Study Buddy — Mobile-First Learning Platform
+
+> A student-centric mobile learning platform designed to reduce academic isolation 
+> and improve exam performance through collaborative tools built around real student needs.
